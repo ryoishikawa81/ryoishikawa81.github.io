@@ -1,0 +1,62 @@
+[
+  {
+    "id": "career-1",
+    "position": "Ph.D. (JSPS DC2)",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2007",
+    "endDate": "2011",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-2",
+    "position": "Postdoctoral Fellow",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2011",
+    "endDate": "2012",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-3",
+    "position": "JSPS Overseas Research Fellowship",
+    "organization": "ORNL",
+    "location": "USA",
+    "startDate": "2012",
+    "endDate": "2014",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-4",
+    "position": "Assistant Professor",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2014",
+    "endDate": "2020",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-5",
+    "position": "(adjunct) JST-PRESTO Intelligent Measurement Analysis",
+    "organization": "",
+    "location": "",
+    "startDate": "2018",
+    "endDate": "2022",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-6",
+    "position": "Project Associate Professor",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2020",
+    "endDate": null,
+    "description": "",
+    "type": "work"
+  }
+]

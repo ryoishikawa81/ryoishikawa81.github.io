@@ -1,0 +1,72 @@
+[
+  {
+    "id": "41972453",
+    "title": "風戸賞",
+    "titleJa": "風戸賞",
+    "awarder": "風戸研究奨励会",
+    "awarderJa": "風戸研究奨励会",
+    "year": "2023",
+    "month": "03",
+    "isMainWork": false
+  },
+  {
+    "id": "41972616",
+    "title": "第37回論文賞顕微鏡法基礎部門",
+    "titleJa": "第37回論文賞顕微鏡法基礎部門",
+    "awarder": "日本顕微鏡学会",
+    "awarderJa": "日本顕微鏡学会",
+    "year": "2022",
+    "month": "06",
+    "isMainWork": false
+  },
+  {
+    "id": "32225358",
+    "title": "令和3年度科学技術分野の文部科学大臣表彰 若手科学者賞",
+    "titleJa": "令和3年度科学技術分野の文部科学大臣表彰 若手科学者賞",
+    "awarder": "文部科学省",
+    "awarderJa": "文部科学省",
+    "year": "2021",
+    "month": "04",
+    "isMainWork": false
+  },
+  {
+    "id": "31998362",
+    "title": "第４２回本多記念研究奨励賞",
+    "titleJa": "第４２回本多記念研究奨励賞",
+    "awarder": "本多記念会",
+    "awarderJa": "本多記念会",
+    "year": "2021",
+    "month": "02",
+    "isMainWork": false
+  },
+  {
+    "id": "2534776",
+    "title": "Encouragement Award",
+    "titleJa": "第１９回奨励賞",
+    "awarder": "Japan Society of Microscopy",
+    "awarderJa": "日本顕微鏡学会",
+    "year": "2018",
+    "month": "05",
+    "isMainWork": false
+  },
+  {
+    "id": "2534775",
+    "title": "Albert Crewe Award",
+    "titleJa": "Albert Crewe Award",
+    "awarder": "Microscopy Society of America",
+    "awarderJa": "Microscopy Society of America",
+    "year": "2016",
+    "month": "07",
+    "isMainWork": false
+  },
+  {
+    "id": "2534774",
+    "title": "Encouragement Award",
+    "titleJa": "第２５回奨励賞（組織部門）",
+    "awarder": "The Japan Institute of Metals and Materials",
+    "awarderJa": "日本金属学会",
+    "year": "2015",
+    "month": "09",
+    "isMainWork": false
+  }
+]

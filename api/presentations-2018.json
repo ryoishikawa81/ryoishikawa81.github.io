@@ -1,0 +1,58 @@
+[
+  {
+    "id": "42947010",
+    "title": "Atomic-resolution dynamic STEM observations for single atom tracking",
+    "titleJa": "Atomic-resolution dynamic STEM observations for single atom tracking",
+    "speakers": "Ryo Ishikawa",
+    "speakersJa": "Ryo Ishikawa",
+    "conference": "19th International Microscopy Congress",
+    "conferenceJa": "19th International Microscopy Congress",
+    "date": "2018-09-13",
+    "year": "2018",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "42946993",
+    "title": "Surface and Electric Field Imaging by Newly Designed Atomic-Resolution STEM",
+    "titleJa": "Surface and Electric Field Imaging by Newly Designed Atomic-Resolution STEM",
+    "speakers": "Ryo Ishikawa",
+    "speakersJa": "Ryo Ishikawa",
+    "conference": "Microscopy and Microanalysis 2018",
+    "conferenceJa": "Microscopy and Microanalysis 2018",
+    "date": "2018-08-08",
+    "year": "2018",
+    "place": "",
+    "placeJa": "",
+    "isInvited": true
+  },
+  {
+    "id": "42946971",
+    "title": "Tracking of single atom diffusion in bulk materials",
+    "titleJa": "Tracking of single atom diffusion in bulk materials",
+    "speakers": "Ryo Ishikawa",
+    "speakersJa": "Ryo Ishikawa",
+    "conference": "International Workshop on Scanning Transmission Electron Microscopy",
+    "conferenceJa": "International Workshop on Scanning Transmission Electron Microscopy",
+    "date": "2018-05-11",
+    "year": "2018",
+    "place": "",
+    "placeJa": "",
+    "isInvited": true
+  },
+  {
+    "id": "42947028",
+    "title": "Dynamic observation of single atom diffusion and phase transition",
+    "titleJa": "Dynamic observation of single atom diffusion and phase transition",
+    "speakers": "Ryo Ishikawa,Rohan Mishra,A.R. Lupini,Takashi Taniguchi,Naoya Shibata,Yuichi Ikuhara",
+    "speakersJa": "Ryo Ishikawa,Rohan Mishra,A.R. Lupini,Takashi Taniguchi,Naoya Shibata,Yuichi Ikuhara",
+    "conference": "2018 MRS Spring Meeting & Exhibit",
+    "conferenceJa": "2018 MRS Spring Meeting & Exhibit",
+    "date": "2018-04-04",
+    "year": "2018",
+    "place": "",
+    "placeJa": "",
+    "isInvited": true
+  }
+]
