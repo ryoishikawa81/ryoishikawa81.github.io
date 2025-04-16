@@ -1,4 +1,4 @@
-## 研究内容
+## Research Focus
 
 ### Three-Dimensional Atom-by-Atom Imaging by STEM Depth Sectioning
 
