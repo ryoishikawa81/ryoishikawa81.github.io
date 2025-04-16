@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "あなたの名前"
+    "name": "石川 亮"
   },
   "nav": {
     "bio": "プロフィール",
@@ -21,7 +21,7 @@
     "orcid": "https://orcid.org/0000-0001-5801-0971",
     "researchmap": "https://researchmap.jp/ryoishikawa",
     "linkedin": "",
-    "researchInterests": "研究興味",
+    "researchInterests": "Research Interests",
     "researchTags": [
       "Depth sectioning STEM",
       "High spatio-temporal STEM"
