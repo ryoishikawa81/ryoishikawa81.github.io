@@ -1,9 +1,9 @@
-awards
-ID,賞名(日本語),賞名(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),受賞年月,主要な業績かどうか
-example-id,賞名,"Example Award Name",タイトル,"Example Title",授与機関,"Example Awarder",2025-03,false
-49341459,青葉研究奨励賞,"Aoba Research Encouragement Prize",null,null,青葉研究奨励会,"Aoba Research Foundation",2025-03,false
-48550881,"Institutional Participant in the Rising Stars Women in Science Workshop",null,null,null,null,null,2024-11,false
-46398327,理学系研究科研究科長賞（研究最優秀）,"Dean's Award (Excellence in Research)",null,null,京都大学,"Kyoto University",2023-03,false
-46398303,日本生物学会第64回シンポジウム最優秀ポスター賞,null,null,null,日本生物学会,null,2021-11,false
-46398299,日本化学学会・物理学会奨学賞,null,null,null,"日本化学学会 物理学会",null,2018-03,false
-46398295,理学部長賞,"Dean's Award",null,null,京都大学,"Kyoto University",2018-03,false
+﻿awards
+アクション名,アクションタイプ,類似業績マージ優先度,ID,賞名(日本語),賞名(英語),受賞者・グループ(日本語),受賞者・グループ(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),概要(日本語),概要(英語),受賞年月,受賞区分,受賞国・地域,URL,主要な業績かどうか,公開の有無
+insert,merge,null,41972453,風戸賞,null,"[石川 亮]",null,"原子分解能 STEM 電子顕微鏡法による 3 次元欠陥構造解析",null,風戸研究奨励会,null,null,null,2023-03,null,null,null,false,disclosed
+insert,merge,null,41972616,第37回論文賞顕微鏡法基礎部門,第37回論文賞顕微鏡法基礎部門,"[Ryo Ishikawa,Yu Jimbo,Mitsuhisa Terao,Masashi Nishikawa,Yujiro Ueno,Shigeyuki Morishita,Masaki Mukai,Naoya Shibata,Yuichi Ikuhara]",null,null,"High spatiotemporal-resolution imaging in the scanning transmission electron microscope",日本顕微鏡学会,null,null,null,2022-06,null,null,null,false,disclosed
+insert,merge,null,32225358,"令和3年度科学技術分野の文部科学大臣表彰 若手科学者賞",null,[石川亮],null,null,null,文部科学省,null,null,null,2021-04,null,null,null,false,disclosed
+insert,merge,null,31998362,第４２回本多記念研究奨励賞,null,[石川亮],null,null,null,本多記念会,null,null,null,2021-02,null,null,null,false,disclosed
+insert,merge,null,2534776,第１９回奨励賞,"Encouragement Award","[石川 亮]","[Ryo Ishikawa]",null,null,日本顕微鏡学会,"Japan Society of Microscopy",null,null,2018-05,null,null,null,false,disclosed
+insert,merge,null,2534775,"Albert Crewe Award","Albert Crewe Award","[石川 亮]","[Ryo Ishikawa]",null,null,"Microscopy Society of America","Microscopy Society of America",null,null,2016-07,null,null,null,false,disclosed
+insert,merge,null,2534774,第２５回奨励賞（組織部門）,"Encouragement Award","[石川 亮]","[Ryo Ishikawa]",null,null,日本金属学会,"The Japan Institute of Metals and Materials",null,null,2015-09,null,null,null,false,disclosed
