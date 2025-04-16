@@ -1,40 +1,60 @@
 [
   {
     "id": "career-1",
-    "position": "学士（工学）",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2016",
-    "endDate": "2020",
+    "position": "Ph.D. (JSPS DC2)",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2007",
+    "endDate": "2011",
     "description": "",
     "type": "education"
   },
   {
     "id": "career-2",
-    "position": "修士（工学）",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2020",
-    "endDate": "2022",
+    "position": "Postdoctoral Fellow",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2011",
+    "endDate": "2012",
     "description": "",
-    "type": "education"
+    "type": "work"
   },
   {
     "id": "career-3",
-    "position": "博士（工学）",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2022",
-    "endDate": "2025",
+    "position": "JSPS Overseas Research Fellowship",
+    "organization": "ORNL",
+    "location": "USA",
+    "startDate": "2012",
+    "endDate": "2014",
     "description": "",
-    "type": "education"
+    "type": "work"
   },
   {
     "id": "career-4",
-    "position": "博士研究員",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2025",
+    "position": "Assistant Professor",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2014",
+    "endDate": "2020",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-5",
+    "position": "(adjunct) JST-PRESTO Intelligent Measurement Analysis",
+    "organization": "",
+    "location": "",
+    "startDate": "2018",
+    "endDate": "2022",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-6",
+    "position": "Project Associate Professor",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2020",
     "endDate": null,
     "description": "",
     "type": "work"
